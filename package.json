@@ -1,0 +1,22 @@
+{
+  "name": "bot-wa-riozen",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot by Riozen",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "baileys"
+  ],
+  "author": "Riosrmz9",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "^8.0.0",
+    "qrcode-terminal": "^0.12.0",
+    "fs": "latest"
+  }
+}
